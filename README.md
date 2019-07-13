@@ -9,3 +9,4 @@ Author: "(Jamie) Yeon Ju Heo, Amitabh Kumar, Joseph Gyamfi, and Rob Ness"
 Course name: "CSDA1040 Advanced Methods of Data Analysis" Date: "July 14, 2019
 
 R Shiny App: https://mbaproject1.shinyapps.io/yucda1040-p2/
+
